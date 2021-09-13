@@ -1,0 +1,47 @@
+Biến, Kiểu dữ liệu , toán tử
+- KN: Biến là gì?
+- Biến là giá trị có thể thay đổi được
+- Số mình đưa vào và gọi nó
+- Biến là giá trị thay đổi tùy theo điều kiện và trường hợp
+- Biến là giá trị mình gán
+- Biến là giá trị có thể thay đổi được trong
+
+- Biến là đại diện cho 1 ô nhớ chưa dữ liệu - Variable
+- Hằng số là biến đặc biệt, không cho thay đổi giá trị
+    - let - ES2016 (ES5) - Biến cục bộ - Scope(phạm vi) - {} - Không nên dùng var
+    - var - Biến toàn cục - Nó có thể thay đổi ở bất cứ đâu - khó kiểm soát
+    - const - Khai báo hằng - biến không thể thay đổi giá trị
+- Kiểu dữ liệu - Kiểu dữ liệu của 1 giá trị - Datatype
+    - Primary
+        - Number
+            - Số nguyên - integer - int
+            - Số thực - float (double, long)....
+        - String => "", '' => tôi là "Mỹ"
+            - Char
+        - Symbol
+            - Kí tự đặc biệt
+        - Boolean
+            - True/False
+        - Null (Rỗng)
+        - Undefined (Chưa định nghĩa)
+    - Object
+        - Array
+
+- Toán tử: a + b = c (a, b : toán hạng, +,=: toán tử) - Operator
+    - Toán tử số học
+        - +, -, *, / , %, **
+    - Toán tử gán
+        =, += ,-= ,*= , %=, /=
+    - Toán tử cộng chuỗi
+        - Nối các chuỗi
+    - Toán tử so sánh
+        - > , < , >= , <= , ==; !=
+        - ==, ===
+        - ==: so sánh giá trị
+        - ===: so sánh giá trị + kiểu dữ liệu
+    - Toán tử logic (biểu thức gồm nhiều toán tử so sánh) : a = 6; b = 4
+        - && : và (a > b && a < 5) // tất cả điều kiện đúng => biểu thức mới đúng
+        - || : hoặc : chỉ cần 1 điều kiện đúng => cả biểu thức đúng
+        - ! : khác - ngược lại
+
+    - Toán tử Typeof

@@ -1,0 +1,10 @@
+Conditions
+- IF
+    - if(){} //if thiếu
+    - if(condition){} else{} //if đủ
+    - if(condition){} elseif(condition){} else
+- SWITCH - CASE
+
+1. IF else khác gì với switch case?
+2. If else có chuyển sang switch case được không?
+3. Switch case có chuyển sang if else được không?
